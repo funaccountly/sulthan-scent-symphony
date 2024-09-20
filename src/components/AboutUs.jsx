@@ -6,7 +6,7 @@ const AboutUs = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-8 md:mb-0">
-            <img src="/about-us.jpg" alt="About Sulthan Fragrance" className="rounded-lg shadow-2xl w-full" />
+            <img src="https://images.unsplash.com/photo-1615529162924-f8605388461d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="About Sulthan Fragrance" className="rounded-lg shadow-2xl w-full" />
           </div>
           <div className="md:w-1/2 md:pl-12">
             <h2 className="text-3xl md:text-4xl font-serif mb-6">Our Story</h2>
